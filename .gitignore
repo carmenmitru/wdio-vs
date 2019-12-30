@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+allure-report/
+allure-results/
+_results_/
+json-report/
+visual-reg/
+.reg
+package-lock.json
