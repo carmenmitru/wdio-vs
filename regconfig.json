@@ -16,7 +16,7 @@
       "bucketName": "${BUCKET_NAME}"
     },
     "reg-notify-github-plugin": {
-      "clientId": "${BUCKET_NAME}"
+      "clientId": "MzI2sDQ2NzWy1C9PyczXLSvWNzM3NrMw1U9OLMpNzcvNLCkqBQA="
     }
   }
 }
